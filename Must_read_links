@@ -14,9 +14,13 @@
 - https://github.com/jbossdemocentral
 - https://developers.redhat.com/topics/microservices/
 - https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/index
+- https://docs.microsoft.com/en-us/dotnet/standard/serverless-architecture/serverless-architecture
+- https://github.com/dotnet-architecture/eShopOnContainers
 
 ### Container Stack: Kubernetes & Docker
 - https://opensource.com/article/18/6/running-integration-tests-kubernetes
 
 ### Update Tech:
 - https://dzone.com/refcardz
+- https://www.microsoft.com/net/learn/architecture
+- https://docs.microsoft.com/en-us/dotnet/standard/guidance-architecture
