@@ -20,7 +20,8 @@
 ### Container Stack: Kubernetes & Docker
 - https://opensource.com/article/18/6/running-integration-tests-kubernetes
 
-### Update Tech:
+### Update Tech/ Architecture:
 - https://dzone.com/refcardz
 - https://www.microsoft.com/net/learn/architecture
 - https://docs.microsoft.com/en-us/dotnet/standard/guidance-architecture
+- https://samnewman.io/patterns/architectural/bff/
