@@ -25,3 +25,5 @@
 - https://www.microsoft.com/net/learn/architecture
 - https://docs.microsoft.com/en-us/dotnet/standard/guidance-architecture
 - https://samnewman.io/patterns/architectural/bff/
+- https://ngrok.com/docs
+  -- Tunneling services & Expose a local web server to the internet
