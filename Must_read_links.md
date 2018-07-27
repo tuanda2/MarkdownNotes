@@ -27,3 +27,7 @@
 - https://samnewman.io/patterns/architectural/bff/
 - https://ngrok.com/docs
   -- Tunneling services & Expose a local web server to the internet
+
+### Labs/ Hand-ons:
+- https://sweetcode.io/zero-downtime-deployment-in-kubernetes-with-jenkins/
+- https://kubernetesbootcamp.github.io/kubernetes-bootcamp/index.html
