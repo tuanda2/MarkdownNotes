@@ -8,6 +8,7 @@
 - https://opensource.com/article/17/5/secure-open-source-devops
 - https://www.xenonstack.com/services/devops-consulting-services/
 - https://developers.redhat.com/blog/2017/05/16/openshift-and-devops-the-coolstore-microservices-example/
+- https://eng.uber.com/distributed-tracing/ (*Tracing*)
 
 ### Microservice
 - https://github.com/jbossdemocentral/coolstore-microservice
