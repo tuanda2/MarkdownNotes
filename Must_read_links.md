@@ -19,6 +19,8 @@
 
 ### Container Stack: Kubernetes & Docker
 - https://opensource.com/article/18/6/running-integration-tests-kubernetes
+- http://blog.leifmadsen.com/blog/2017/09/19/persistent-volumes-with-glusterfs/ (*Storage*)
+- https://portworx.com/basic-guide-kubernetes-storage/ (*Storage*)
 
 ### Update Tech/ Architecture:
 - https://dzone.com/refcardz
